@@ -1,0 +1,9 @@
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\bin\Debug\math game.exe
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\bin\Debug\math game.pdb
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\bin\Debug\math game.xml
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math_game.Form1.resources
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math_game.Resources.resources
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math game.vbproj.GenerateResource.Cache
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math game.exe
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math game.xml
+c:\users\opeyemi\documents\visual studio 2010\Projects\math game\math game\obj\x86\Debug\math game.pdb
